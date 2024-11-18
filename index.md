@@ -6,4 +6,3 @@
 3.  I would consider collaborating more with other teams in my domain to have a more rounded and wholesome understanding of the API.
 4. I would be interested in using an API Gateway for a better developer experience.
 
-<iframe src="assets/example-map.html" width=800 height=600 frameBorder=0></iframe>
